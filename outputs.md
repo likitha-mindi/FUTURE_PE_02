@@ -2,19 +2,22 @@
 # AI GENERATED UGC AD CONTENT
 ## Instagram UGC Script
 Hook:
-"I wish someone told me this before wasting 2 years..."
+"I honestly thought coding wasn’t meant for people like me..."
 
 Problem:
-I tried learning coding from random YouTube videos but kept getting confused and quitting halfway.
+I was stuck watching random tutorials, feeling stupid and overwhelmed. I almost gave up.
 
 Solution:
-Then I joined CodeSprint Academy. They structured everything step-by-step, even for complete beginners.
+Then I joined CodeSprint Academy. Everything was structured. Step-by-step. No confusion.
 
-Social Proof:
-Within 4 months, I built real projects and even cracked my first internship interview.
+Transformation:
+In just 4 months, I built real projects and cracked my first internship.
+
+Urgency:
+Enrollment closes this week, and seats are limited.
 
 CTA:
-If you're serious about switching to tech, check out CodeSprint Academy and start today.
+If you’re serious about changing your future, don’t wait. Start today.
 
 ## 10 Scroll-Stopping Hooks
 1. Nobody tells you this about learning coding.
