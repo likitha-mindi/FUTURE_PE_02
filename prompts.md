@@ -1,23 +1,20 @@
 # PROMPTS USED – UGC AD GENERATION
-
 ## Prompt 1 – Instagram UGC Ad Script
-Act as a UGC content creator making a short Instagram reel.
-Create a 30-second ad script for an online coding course named "CodeSprint Academy".
+Act as a real UGC content creator sharing a personal transformation story.
 
-Target audience:
-- College students
-- Beginners with no coding background
-- Career switchers
+Create a 30-second emotional and authentic Instagram Reel script for "CodeSprint Academy".
 
-Structure:
-Hook (first 3 seconds)
-Problem
-Solution
-Social proof
-Strong CTA
+Include:
+- Emotional Hook (fear, doubt, frustration)
+- Personal struggle with learning coding
+- Discovery of structured course
+- Real transformation result (job/internship/confidence)
+- Social proof
+- Urgency trigger (limited seats / discount ending soon)
+- Strong CTA
 
 Tone:
-Relatable, natural, slightly emotional, motivating.
+Raw, relatable, slightly vulnerable, motivating.
 
 ## Prompt 2 – Multiple Hooks
 Generate 10 scroll-stopping hooks for an online coding course.
