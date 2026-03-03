@@ -19,6 +19,12 @@ Separate prompts were used for Instagram and YouTube Shorts to match tone and en
 
 5. Conversion Focus
 Hooks and CTA sections were generated separately to improve engagement and click-through rates.
+## Psychological Triggers Used
+- Fear of missing out (FOMO)
+- Emotional relatability
+- Authority positioning
+- Urgency trigger
+- Transformation storytelling
 ## Outcome
 The generated scripts:
 - Feel natural and relatable
