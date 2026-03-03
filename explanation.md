@@ -1,4 +1,4 @@
-# PROMPT ENGINEERING EXPLANATION – TASK 2
+# PROMPT ENGINEERING EXPLANATION 
 ## Objective
 To generate high-converting UGC-style advertisement content for an online coding course.
 ## Prompt Strategy
